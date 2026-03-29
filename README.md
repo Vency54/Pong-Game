@@ -8,6 +8,6 @@ que forneceu o template original do jogo em seu git e ofereceu um video explicat
 utilizei para criar o programa.
 
 <p align="center">
-| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">Video Utilizado</a>
+| 📺 <a href="https://www.youtube.com/watch?v=VLJlTaFvHo4">Video Utilizado</a>
 </p>
 
